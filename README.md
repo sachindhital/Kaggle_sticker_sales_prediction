@@ -1,0 +1,1 @@
+# Kaggle_sticker_sales_prediction
